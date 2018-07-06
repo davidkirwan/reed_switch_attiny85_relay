@@ -1,0 +1,5 @@
+== Reed Switch Activated Relay ==
+
+image::reed_activated_relay.png[Tux,600,350, align="center"]
+
+
